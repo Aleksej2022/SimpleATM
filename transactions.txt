@@ -1,0 +1,5 @@
+
+
+	Amount debited: $602.0	Date: 2022:09:11 - 12:05:44
+	Amount credited: $14000.0	Date: 2022:09:11 - 12:05:44
+	Amount debited: $8502.0	Date: 2022:09:11 - 12:05:44
